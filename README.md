@@ -3,13 +3,13 @@ Repositorio creado para el Curso de Machine Learning (Aprendizaje Automático) e
 
 ## Contiene los siguientes Notebooks:
 
-### 1. Introducción a Python.
-### 2. Introducción a Numpy.
-### 3. Introducción a Pandas.
-### 4. Introducción a Scikit-Learn.
-### 5. Frontera Decisión modelos ML.
-### 6. Modelos de Clasificación.
-### 7. Multinomial Naive Bayes.
-### 8. Árboles de Decisión y Regresión.
-### 9. Bagging, Random Forrest y Boosting.
-### Trabajo Final del Curso.
+1. Introducción a Python.
+2. Introducción a Numpy.
+3. Introducción a Pandas.
+4. Introducción a Scikit-Learn.
+5. Frontera Decisión modelos ML.
+6. Modelos de Clasificación.
+7. Multinomial Naive Bayes.
+8. Árboles de Decisión y Regresión.
+9. Bagging, Random Forrest y Boosting.
+Trabajo Final del Curso.
