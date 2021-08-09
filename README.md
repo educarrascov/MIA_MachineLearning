@@ -12,4 +12,4 @@ Repositorio creado para el Curso de Machine Learning (Aprendizaje Automático) e
 7. Multinomial Naive Bayes.
 8. Árboles de Decisión y Regresión.
 9. Bagging, Random Forrest y Boosting.
-Trabajo Final del Curso.
+10. Trabajo Final del Curso.
