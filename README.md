@@ -1,4 +1,4 @@
-# MIA_MachineLearning <img src="0. Trabajo Final MIA/img/logo.png" align="right" width = "100px"/>
+# MIA_MachineLearning <img src="0. Trabajo Final MIA/img/logo.png" align="right" width = "80px"/>
     
 Repositorio creado para el Curso de Machine Learning (Aprendizaje de Máquinas) en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
 
