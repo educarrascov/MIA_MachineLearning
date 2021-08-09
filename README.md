@@ -16,4 +16,4 @@ Alumno: Eduardo Carrasco Vidal.
 7. Multinomial Naive Bayes.
 8. Árboles de Decisión y Regresión.
 9. Bagging, Random Forrest y Boosting.
-10. Trabajo Final del Curso.
+10. [**Trabajo Final del Curso**](https://github.com/educarrascov/MIA_MachineLearning/tree/master/0.%20Trabajo%20Final%20MIA).
