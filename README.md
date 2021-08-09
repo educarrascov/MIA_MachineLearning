@@ -1,6 +1,8 @@
-# MIA_MachineLearning
+# MIA_MachineLearning <img src="0. Trabajo Final MIA/img/logo.png" align="right" width = "100px"/>
+    
 Repositorio creado para el Curso de Machine Learning (Aprendizaje de Máquinas) en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
 
+![Python](https://img.shields.io/badge/python-%2314354C.svg)
 ## Contiene los siguientes Notebooks:
 
 1. Introducción a Python.
