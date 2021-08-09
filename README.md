@@ -8,9 +8,9 @@ Alumno: Eduardo Carrasco Vidal.
 ## Contiene los siguientes Notebooks:
 
 1. Introducción a Python.
-2. Introducción a Numpy.
-3. Introducción a Pandas.
-4. Introducción a Scikit-Learn.
+2. Introducción a `Numpy`.
+3. Introducción a `Pandas`.
+4. Introducción a `Scikit-Learn`.
 5. Frontera Decisión modelos ML.
 6. Modelos de Clasificación.
 7. Multinomial Naive Bayes.
