@@ -7,7 +7,7 @@ Alumno: Eduardo Carrasco Vidal.
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)
 ## Contiene los siguientes Notebooks:
 
-1. Introducción a Python.
+1. [Introducción a Python](https://github.com/educarrascov/MIA_MachineLearning/blob/master/1.2.%20Coding%20en%20Python%20v1/1.%20Introduccion%20a%20Python%20(MIA%20UAI).ipynb).
 2. Introducción a `Numpy`.
 3. Introducción a `Pandas`.
 4. Introducción a `Scikit-Learn`.
