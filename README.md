@@ -2,7 +2,7 @@
     
 Repositorio creado para el Curso de Machine Learning (Aprendizaje de Máquinas) en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
 
-Eduardo Carrasco Vidal.
+**Eduardo Carrasco Vidal**
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 ## Contiene los siguientes Notebooks:
