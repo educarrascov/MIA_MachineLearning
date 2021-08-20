@@ -4,7 +4,7 @@ Repositorio creado para el Curso de Machine Learning (Aprendizaje de Máquinas) 
 
 Eduardo Carrasco Vidal.
  
-![Python](https://img.shields.io/badge/python-%2314354C.svg)
+![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ## Contiene los siguientes Notebooks:
 
 1. [Introducción a Python](https://github.com/educarrascov/MIA_MachineLearning/blob/master/1.2.%20Coding%20en%20Python%20v1/1.%20Introduccion%20a%20Python%20(MIA%20UAI).ipynb).
