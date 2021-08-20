@@ -16,4 +16,7 @@ Eduardo Carrasco Vidal.
 7. [Multinomial Naive Bayes](https://github.com/educarrascov/MIA_MachineLearning/blob/master/2.5.%20Naive%20Bayes/7.%20Multinomial%20Naive%20Bayes%20(MIA%20UAI).ipynb).
 8. [Árboles de Decisión y Regresión](https://github.com/educarrascov/MIA_MachineLearning/blob/master/2.6.%20Decision%20Trees%20%26%20Random%20Forests/8.%20Árboles%20de%20Decisión%20y%20Regresión%20(MIA%20UAI).ipynb).
 9. [Bagging, Random Forrest y Boosting](https://github.com/educarrascov/MIA_MachineLearning/blob/master/2.6.%20Decision%20Trees%20%26%20Random%20Forests/9.%20Bagging%2C%20Random%20Forests%20y%20Boosting%20(MIA%20UAI).ipynb).
-10. [**Trabajo Final del Curso**](https://github.com/educarrascov/MIA_MachineLearning/blob/master/0.%20Trabajo%20Final%20MIA/Actividad%20Final%20educarrascov.ipynb).
+10. [Reducción de dimensionalidad](https://github.com/educarrascov/MIA_MachineLearning/blob/master/3.3.%20Reducción%20de%20Dimensionalidad%20y%20Clustering/10.%20Reducción%20de%20Dimensionalidad%20(MIA%20UAI).ipynb).
+11. [Clustering](https://github.com/educarrascov/MIA_MachineLearning/blob/master/3.3.%20Reducción%20de%20Dimensionalidad%20y%20Clustering/11.%20Clustering%20(MIA%20UAI).ipynb)
+12. [Aprendizaje Reforzado](https://github.com/educarrascov/MIA_MachineLearning/blob/master/3.4.%20Aprendizaje%20Reforzado/12.%20Aprendizaje%20Reforzado.ipynb)
+14. [**Trabajo Final del Curso**](https://github.com/educarrascov/MIA_MachineLearning/blob/master/0.%20Trabajo%20Final%20MIA/Actividad%20Final%20educarrascov.ipynb).
