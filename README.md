@@ -7,7 +7,11 @@ Profesor: Adrián Soto.
 **Eduardo Carrasco Vidal**
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
-## Contiene los siguientes Notebooks:
+## Trabajo de Término del Curso:
+
+[**Trabajo Final del Curso**](https://github.com/educarrascov/MIA_MachineLearning/blob/master/0.%20Trabajo%20Final%20MIA/Actividad%20Final%20educarrascov.ipynb).
+
+## Este Repositorio contiene los siguientes Notebooks:
 
 1. [Introducción a Python](https://github.com/educarrascov/MIA_MachineLearning/blob/master/1.2.%20Coding%20en%20Python%20v1/1.%20Introduccion%20a%20Python%20(MIA%20UAI).ipynb).
 2. [Introducción a `Numpy`](https://github.com/educarrascov/MIA_MachineLearning/blob/master/1.2.%20Coding%20en%20Python%20v1/2.%20Pandas%20%2B%20Numpy/2.%20Numpy%20(MIA%20UAI).ipynb).
@@ -21,4 +25,5 @@ Profesor: Adrián Soto.
 10. [Reducción de dimensionalidad](https://github.com/educarrascov/MIA_MachineLearning/blob/master/3.3.%20Reducción%20de%20Dimensionalidad%20y%20Clustering/10.%20Reducción%20de%20Dimensionalidad%20(MIA%20UAI).ipynb).
 11. [Clustering](https://github.com/educarrascov/MIA_MachineLearning/blob/master/3.3.%20Reducción%20de%20Dimensionalidad%20y%20Clustering/11.%20Clustering%20(MIA%20UAI).ipynb)
 12. [Aprendizaje Reforzado](https://github.com/educarrascov/MIA_MachineLearning/blob/master/3.4.%20Aprendizaje%20Reforzado/12.%20Aprendizaje%20Reforzado.ipynb)
-14. [**Trabajo Final del Curso**](https://github.com/educarrascov/MIA_MachineLearning/blob/master/0.%20Trabajo%20Final%20MIA/Actividad%20Final%20educarrascov.ipynb).
+
+
