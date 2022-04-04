@@ -2,7 +2,7 @@
     
 Repositorio creado para el **Curso de Machine Learning (Aprendizaje de Máquinas)** en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
 
-Profesor: Adrián Soto.
+Profesor: Adrián Soto. Facultad de Ingeniería y Ciencias, UAI.
 
 **Eduardo Carrasco Vidal**
  
