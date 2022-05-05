@@ -9,7 +9,7 @@ Profesor: Adrián Soto. Facultad de Ingeniería y Ciencias, UAI.
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 ## Trabajo de Término del Curso:
 
-[**Trabajo Final del Curso**](https://github.com/educarrascov/MIA_MachineLearning/blob/master/0.%20Trabajo%20Final%20MIA/Actividad%20Final%20educarrascov.ipynb).
+[**Trabajo Final del Curso**](https://github.com/educarrascov/MIA_MachineLearning/blob/master/0.%20Trabajo%20Final%20MIA/Notebook%20Actividad%20Final%20Eduardo%20Carrasco.ipynb).
 
 ## Este Repositorio contiene los siguientes Notebooks:
 
