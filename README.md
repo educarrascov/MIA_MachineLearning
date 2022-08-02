@@ -1,6 +1,6 @@
 # MIA_MachineLearning <img src="0. Trabajo Final MIA/img/logo.png" align="right" width = "95px"/>
     
-Repositorio creado para el **Curso de Machine Learning (Aprendizaje de Máquinas)** en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
+Repositorio creado para el **Curso de Machine Learning (Aprendizaje de Máquinas)** en el programa de **Magister en Inteligencia Artificial** de la Universidad Adolfo Ibáñez.
 
 Profesor: Adrián Soto. Facultad de Ingeniería y Ciencias, UAI.
 
